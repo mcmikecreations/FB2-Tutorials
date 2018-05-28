@@ -8,7 +8,7 @@
 - Raycasting
 ## Preview
 ### [Video](https://youtu.be/NXfInsdqJEo)
-![Asteroids Clone Preview](https://i.imgur.com/HqyTymt.png)
+![Asteroids Clone Preview](https://i.imgur.com/JTZVUiY.png)
 ## Possible improvements
 - Remaking all graphics from scratch
 - Adding sounds
